@@ -1,12 +1,33 @@
-# React + Vite
+Presentations 🙂
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+01. 
+About hooks: useRef() , useState() , useEffect 
 
-Currently, two official plugins are available:
+Real life example i understand :
+In a classroom teacher is teaching something , I am taking my personal notes in my notebook this is useRef ,
+if I am reading my notes in front of the class then it's useState means ui getting changes and useEffect 
+occurs when teacher seen something unimportant i have written in my notes silently and call my parents then its 
+an example of useEffect . 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Here in this project 
+useEffect is updating the local storage so when i refresh data should still be there .
+useRef(): Grabbing the value from the input fields (add button)
+useState() : Manage the todo list and updating the ui when task added , deleted , updated 
 
-## Expanding the ESLint configuration
+02.
+I have used trim() so that in browser no extra space comes in console.log even if i give some 
+space's by mistake .
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+03.
+In local store in Application >>explain isComplete part 
+
+04. 
+Used tailwind css so that I don't have to create separate css files it's an advantage 
+
+05.
+I have uploaded my project in github and in github pages and with the help of url I can see when I want . 
+
+06. 
+“I’ve used core JavaScript concepts like functions, map, filter, destructuring, spread operator, 
+and DOM access via useRef. I also use trim() for input cleanup, 
+conditional rendering, and store/retrieve data using localStorage with JSON methods.”
